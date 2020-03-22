@@ -13,6 +13,78 @@
 		EA4BEAC224277E0700A4C56E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAC124277E0700A4C56E /* Assets.xcassets */; };
 		EA4BEAC524277E0800A4C56E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAC424277E0800A4C56E /* Preview Assets.xcassets */; };
 		EA4BEAC824277E0800A4C56E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAC624277E0800A4C56E /* LaunchScreen.storyboard */; };
+		EA4BEB1124277E4B00A4C56E /* pokemon-7.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD124277E4B00A4C56E /* pokemon-7.json */; };
+		EA4BEB1224277E4B00A4C56E /* pokemon-14.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD224277E4B00A4C56E /* pokemon-14.json */; };
+		EA4BEB1324277E4B00A4C56E /* pokemon-22.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD324277E4B00A4C56E /* pokemon-22.json */; };
+		EA4BEB1424277E4B00A4C56E /* pokemon-18.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD424277E4B00A4C56E /* pokemon-18.json */; };
+		EA4BEB1524277E4B00A4C56E /* pokemon-19.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD524277E4B00A4C56E /* pokemon-19.json */; };
+		EA4BEB1624277E4B00A4C56E /* pokemon-23.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD624277E4B00A4C56E /* pokemon-23.json */; };
+		EA4BEB1724277E4B00A4C56E /* pokemon-15.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD724277E4B00A4C56E /* pokemon-15.json */; };
+		EA4BEB1824277E4B00A4C56E /* pokemon-6.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD824277E4B00A4C56E /* pokemon-6.json */; };
+		EA4BEB1924277E4B00A4C56E /* pokemon-24.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAD924277E4B00A4C56E /* pokemon-24.json */; };
+		EA4BEB1A24277E4B00A4C56E /* pokemon-28.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEADA24277E4B00A4C56E /* pokemon-28.json */; };
+		EA4BEB1B24277E4B00A4C56E /* pokemon-1.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEADB24277E4B00A4C56E /* pokemon-1.json */; };
+		EA4BEB1C24277E4B00A4C56E /* pokemon-12.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEADC24277E4B00A4C56E /* pokemon-12.json */; };
+		EA4BEB1D24277E4B00A4C56E /* pokemon-13.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEADD24277E4B00A4C56E /* pokemon-13.json */; };
+		EA4BEB1E24277E4B00A4C56E /* pokemon-29.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEADE24277E4B00A4C56E /* pokemon-29.json */; };
+		EA4BEB1F24277E4B00A4C56E /* pokemon-25.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEADF24277E4B00A4C56E /* pokemon-25.json */; };
+		EA4BEB2024277E4B00A4C56E /* pokemon-26.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE024277E4B00A4C56E /* pokemon-26.json */; };
+		EA4BEB2124277E4B00A4C56E /* pokemon-30.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE124277E4B00A4C56E /* pokemon-30.json */; };
+		EA4BEB2224277E4B00A4C56E /* pokemon-10.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE224277E4B00A4C56E /* pokemon-10.json */; };
+		EA4BEB2324277E4B00A4C56E /* pokemon-3.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE324277E4B00A4C56E /* pokemon-3.json */; };
+		EA4BEB2424277E4B00A4C56E /* pokemon-2.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE424277E4B00A4C56E /* pokemon-2.json */; };
+		EA4BEB2524277E4B00A4C56E /* pokemon-11.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE524277E4B00A4C56E /* pokemon-11.json */; };
+		EA4BEB2624277E4B00A4C56E /* pokemon-27.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE624277E4B00A4C56E /* pokemon-27.json */; };
+		EA4BEB2724277E4B00A4C56E /* pokemon-16.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE724277E4B00A4C56E /* pokemon-16.json */; };
+		EA4BEB2824277E4B00A4C56E /* pokemon-5.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE824277E4B00A4C56E /* pokemon-5.json */; };
+		EA4BEB2924277E4B00A4C56E /* pokemon-9.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAE924277E4B00A4C56E /* pokemon-9.json */; };
+		EA4BEB2A24277E4B00A4C56E /* pokemon-20.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAEA24277E4B00A4C56E /* pokemon-20.json */; };
+		EA4BEB2B24277E4B00A4C56E /* pokemon-21.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAEB24277E4B00A4C56E /* pokemon-21.json */; };
+		EA4BEB2C24277E4B00A4C56E /* pokemon-8.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAEC24277E4B00A4C56E /* pokemon-8.json */; };
+		EA4BEB2D24277E4B00A4C56E /* pokemon-4.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAED24277E4B00A4C56E /* pokemon-4.json */; };
+		EA4BEB2E24277E4B00A4C56E /* pokemon-17.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAEE24277E4B00A4C56E /* pokemon-17.json */; };
+		EA4BEB2F24277E4B00A4C56E /* pokemon-species-11.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF024277E4B00A4C56E /* pokemon-species-11.json */; };
+		EA4BEB3024277E4B00A4C56E /* pokemon-species-7.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF124277E4B00A4C56E /* pokemon-species-7.json */; };
+		EA4BEB3124277E4B00A4C56E /* pokemon-species-27.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF224277E4B00A4C56E /* pokemon-species-27.json */; };
+		EA4BEB3224277E4B00A4C56E /* pokemon-species-30.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF324277E4B00A4C56E /* pokemon-species-30.json */; };
+		EA4BEB3324277E4B00A4C56E /* pokemon-species-26.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF424277E4B00A4C56E /* pokemon-species-26.json */; };
+		EA4BEB3424277E4B00A4C56E /* pokemon-species-6.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF524277E4B00A4C56E /* pokemon-species-6.json */; };
+		EA4BEB3524277E4B00A4C56E /* pokemon-species-10.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF624277E4B00A4C56E /* pokemon-species-10.json */; };
+		EA4BEB3624277E4C00A4C56E /* pokemon-species-21.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF724277E4B00A4C56E /* pokemon-species-21.json */; };
+		EA4BEB3724277E4C00A4C56E /* pokemon-species-17.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF824277E4B00A4C56E /* pokemon-species-17.json */; };
+		EA4BEB3824277E4C00A4C56E /* pokemon-species-1.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAF924277E4B00A4C56E /* pokemon-species-1.json */; };
+		EA4BEB3924277E4C00A4C56E /* pokemon-species-16.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAFA24277E4B00A4C56E /* pokemon-species-16.json */; };
+		EA4BEB3A24277E4C00A4C56E /* pokemon-species-20.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAFB24277E4B00A4C56E /* pokemon-species-20.json */; };
+		EA4BEB3B24277E4C00A4C56E /* pokemon-species-23.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAFC24277E4B00A4C56E /* pokemon-species-23.json */; };
+		EA4BEB3C24277E4C00A4C56E /* pokemon-species-19.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAFD24277E4B00A4C56E /* pokemon-species-19.json */; };
+		EA4BEB3D24277E4C00A4C56E /* pokemon-species-3.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAFE24277E4B00A4C56E /* pokemon-species-3.json */; };
+		EA4BEB3E24277E4C00A4C56E /* pokemon-species-15.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEAFF24277E4B00A4C56E /* pokemon-species-15.json */; };
+		EA4BEB3F24277E4C00A4C56E /* pokemon-species-14.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0024277E4B00A4C56E /* pokemon-species-14.json */; };
+		EA4BEB4024277E4C00A4C56E /* pokemon-species-2.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0124277E4B00A4C56E /* pokemon-species-2.json */; };
+		EA4BEB4124277E4C00A4C56E /* pokemon-species-18.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0224277E4B00A4C56E /* pokemon-species-18.json */; };
+		EA4BEB4224277E4C00A4C56E /* pokemon-species-22.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0324277E4B00A4C56E /* pokemon-species-22.json */; };
+		EA4BEB4324277E4C00A4C56E /* pokemon-species-5.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0424277E4B00A4C56E /* pokemon-species-5.json */; };
+		EA4BEB4424277E4C00A4C56E /* pokemon-species-29.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0524277E4B00A4C56E /* pokemon-species-29.json */; };
+		EA4BEB4524277E4C00A4C56E /* pokemon-species-13.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0624277E4B00A4C56E /* pokemon-species-13.json */; };
+		EA4BEB4624277E4C00A4C56E /* pokemon-species-9.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0724277E4B00A4C56E /* pokemon-species-9.json */; };
+		EA4BEB4724277E4C00A4C56E /* pokemon-species-25.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0824277E4B00A4C56E /* pokemon-species-25.json */; };
+		EA4BEB4824277E4C00A4C56E /* pokemon-species-24.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0924277E4B00A4C56E /* pokemon-species-24.json */; };
+		EA4BEB4924277E4C00A4C56E /* pokemon-species-8.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0A24277E4B00A4C56E /* pokemon-species-8.json */; };
+		EA4BEB4A24277E4C00A4C56E /* pokemon-species-12.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0B24277E4B00A4C56E /* pokemon-species-12.json */; };
+		EA4BEB4B24277E4C00A4C56E /* pokemon-species-28.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0C24277E4B00A4C56E /* pokemon-species-28.json */; };
+		EA4BEB4C24277E4C00A4C56E /* pokemon-species-4.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0D24277E4B00A4C56E /* pokemon-species-4.json */; };
+		EA4BEB4D24277E4C00A4C56E /* ability-34.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB0F24277E4B00A4C56E /* ability-34.json */; };
+		EA4BEB4E24277E4C00A4C56E /* ability-65.json in Resources */ = {isa = PBXBuildFile; fileRef = EA4BEB1024277E4B00A4C56E /* ability-65.json */; };
+		EA4BEB5C2427D2B200A4C56E /* AbilityViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB512427D2B200A4C56E /* AbilityViewModel.swift */; };
+		EA4BEB5D2427D2B200A4C56E /* PokemonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB522427D2B200A4C56E /* PokemonViewModel.swift */; };
+		EA4BEB5E2427D2B200A4C56E /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB542427D2B200A4C56E /* Language.swift */; };
+		EA4BEB5F2427D2B200A4C56E /* Ability.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB552427D2B200A4C56E /* Ability.swift */; };
+		EA4BEB602427D2B200A4C56E /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB562427D2B200A4C56E /* Pokemon.swift */; };
+		EA4BEB612427D2B200A4C56E /* PokemonSpecies.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB572427D2B200A4C56E /* PokemonSpecies.swift */; };
+		EA4BEB622427D2B200A4C56E /* FileHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB592427D2B200A4C56E /* FileHelper.swift */; };
+		EA4BEB632427D2B200A4C56E /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB5A2427D2B200A4C56E /* Sample.swift */; };
+		EA4BEB642427D2B200A4C56E /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB5B2427D2B200A4C56E /* Helpers.swift */; };
+		EA4BEB662427D2E600A4C56E /* PokemonInfoRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4BEB652427D2E600A4C56E /* PokemonInfoRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +96,78 @@
 		EA4BEAC424277E0800A4C56E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EA4BEAC724277E0800A4C56E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA4BEAC924277E0800A4C56E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA4BEAD124277E4B00A4C56E /* pokemon-7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-7.json"; sourceTree = "<group>"; };
+		EA4BEAD224277E4B00A4C56E /* pokemon-14.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-14.json"; sourceTree = "<group>"; };
+		EA4BEAD324277E4B00A4C56E /* pokemon-22.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-22.json"; sourceTree = "<group>"; };
+		EA4BEAD424277E4B00A4C56E /* pokemon-18.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-18.json"; sourceTree = "<group>"; };
+		EA4BEAD524277E4B00A4C56E /* pokemon-19.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-19.json"; sourceTree = "<group>"; };
+		EA4BEAD624277E4B00A4C56E /* pokemon-23.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-23.json"; sourceTree = "<group>"; };
+		EA4BEAD724277E4B00A4C56E /* pokemon-15.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-15.json"; sourceTree = "<group>"; };
+		EA4BEAD824277E4B00A4C56E /* pokemon-6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-6.json"; sourceTree = "<group>"; };
+		EA4BEAD924277E4B00A4C56E /* pokemon-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-24.json"; sourceTree = "<group>"; };
+		EA4BEADA24277E4B00A4C56E /* pokemon-28.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-28.json"; sourceTree = "<group>"; };
+		EA4BEADB24277E4B00A4C56E /* pokemon-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-1.json"; sourceTree = "<group>"; };
+		EA4BEADC24277E4B00A4C56E /* pokemon-12.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-12.json"; sourceTree = "<group>"; };
+		EA4BEADD24277E4B00A4C56E /* pokemon-13.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-13.json"; sourceTree = "<group>"; };
+		EA4BEADE24277E4B00A4C56E /* pokemon-29.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-29.json"; sourceTree = "<group>"; };
+		EA4BEADF24277E4B00A4C56E /* pokemon-25.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-25.json"; sourceTree = "<group>"; };
+		EA4BEAE024277E4B00A4C56E /* pokemon-26.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-26.json"; sourceTree = "<group>"; };
+		EA4BEAE124277E4B00A4C56E /* pokemon-30.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-30.json"; sourceTree = "<group>"; };
+		EA4BEAE224277E4B00A4C56E /* pokemon-10.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-10.json"; sourceTree = "<group>"; };
+		EA4BEAE324277E4B00A4C56E /* pokemon-3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-3.json"; sourceTree = "<group>"; };
+		EA4BEAE424277E4B00A4C56E /* pokemon-2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-2.json"; sourceTree = "<group>"; };
+		EA4BEAE524277E4B00A4C56E /* pokemon-11.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-11.json"; sourceTree = "<group>"; };
+		EA4BEAE624277E4B00A4C56E /* pokemon-27.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-27.json"; sourceTree = "<group>"; };
+		EA4BEAE724277E4B00A4C56E /* pokemon-16.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-16.json"; sourceTree = "<group>"; };
+		EA4BEAE824277E4B00A4C56E /* pokemon-5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-5.json"; sourceTree = "<group>"; };
+		EA4BEAE924277E4B00A4C56E /* pokemon-9.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-9.json"; sourceTree = "<group>"; };
+		EA4BEAEA24277E4B00A4C56E /* pokemon-20.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-20.json"; sourceTree = "<group>"; };
+		EA4BEAEB24277E4B00A4C56E /* pokemon-21.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-21.json"; sourceTree = "<group>"; };
+		EA4BEAEC24277E4B00A4C56E /* pokemon-8.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-8.json"; sourceTree = "<group>"; };
+		EA4BEAED24277E4B00A4C56E /* pokemon-4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-4.json"; sourceTree = "<group>"; };
+		EA4BEAEE24277E4B00A4C56E /* pokemon-17.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-17.json"; sourceTree = "<group>"; };
+		EA4BEAF024277E4B00A4C56E /* pokemon-species-11.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-11.json"; sourceTree = "<group>"; };
+		EA4BEAF124277E4B00A4C56E /* pokemon-species-7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-7.json"; sourceTree = "<group>"; };
+		EA4BEAF224277E4B00A4C56E /* pokemon-species-27.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-27.json"; sourceTree = "<group>"; };
+		EA4BEAF324277E4B00A4C56E /* pokemon-species-30.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-30.json"; sourceTree = "<group>"; };
+		EA4BEAF424277E4B00A4C56E /* pokemon-species-26.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-26.json"; sourceTree = "<group>"; };
+		EA4BEAF524277E4B00A4C56E /* pokemon-species-6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-6.json"; sourceTree = "<group>"; };
+		EA4BEAF624277E4B00A4C56E /* pokemon-species-10.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-10.json"; sourceTree = "<group>"; };
+		EA4BEAF724277E4B00A4C56E /* pokemon-species-21.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-21.json"; sourceTree = "<group>"; };
+		EA4BEAF824277E4B00A4C56E /* pokemon-species-17.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-17.json"; sourceTree = "<group>"; };
+		EA4BEAF924277E4B00A4C56E /* pokemon-species-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-1.json"; sourceTree = "<group>"; };
+		EA4BEAFA24277E4B00A4C56E /* pokemon-species-16.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-16.json"; sourceTree = "<group>"; };
+		EA4BEAFB24277E4B00A4C56E /* pokemon-species-20.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-20.json"; sourceTree = "<group>"; };
+		EA4BEAFC24277E4B00A4C56E /* pokemon-species-23.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-23.json"; sourceTree = "<group>"; };
+		EA4BEAFD24277E4B00A4C56E /* pokemon-species-19.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-19.json"; sourceTree = "<group>"; };
+		EA4BEAFE24277E4B00A4C56E /* pokemon-species-3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-3.json"; sourceTree = "<group>"; };
+		EA4BEAFF24277E4B00A4C56E /* pokemon-species-15.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-15.json"; sourceTree = "<group>"; };
+		EA4BEB0024277E4B00A4C56E /* pokemon-species-14.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-14.json"; sourceTree = "<group>"; };
+		EA4BEB0124277E4B00A4C56E /* pokemon-species-2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-2.json"; sourceTree = "<group>"; };
+		EA4BEB0224277E4B00A4C56E /* pokemon-species-18.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-18.json"; sourceTree = "<group>"; };
+		EA4BEB0324277E4B00A4C56E /* pokemon-species-22.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-22.json"; sourceTree = "<group>"; };
+		EA4BEB0424277E4B00A4C56E /* pokemon-species-5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-5.json"; sourceTree = "<group>"; };
+		EA4BEB0524277E4B00A4C56E /* pokemon-species-29.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-29.json"; sourceTree = "<group>"; };
+		EA4BEB0624277E4B00A4C56E /* pokemon-species-13.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-13.json"; sourceTree = "<group>"; };
+		EA4BEB0724277E4B00A4C56E /* pokemon-species-9.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-9.json"; sourceTree = "<group>"; };
+		EA4BEB0824277E4B00A4C56E /* pokemon-species-25.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-25.json"; sourceTree = "<group>"; };
+		EA4BEB0924277E4B00A4C56E /* pokemon-species-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-24.json"; sourceTree = "<group>"; };
+		EA4BEB0A24277E4B00A4C56E /* pokemon-species-8.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-8.json"; sourceTree = "<group>"; };
+		EA4BEB0B24277E4B00A4C56E /* pokemon-species-12.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-12.json"; sourceTree = "<group>"; };
+		EA4BEB0C24277E4B00A4C56E /* pokemon-species-28.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-28.json"; sourceTree = "<group>"; };
+		EA4BEB0D24277E4B00A4C56E /* pokemon-species-4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "pokemon-species-4.json"; sourceTree = "<group>"; };
+		EA4BEB0F24277E4B00A4C56E /* ability-34.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "ability-34.json"; sourceTree = "<group>"; };
+		EA4BEB1024277E4B00A4C56E /* ability-65.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "ability-65.json"; sourceTree = "<group>"; };
+		EA4BEB512427D2B200A4C56E /* AbilityViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbilityViewModel.swift; sourceTree = "<group>"; };
+		EA4BEB522427D2B200A4C56E /* PokemonViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonViewModel.swift; sourceTree = "<group>"; };
+		EA4BEB542427D2B200A4C56E /* Language.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
+		EA4BEB552427D2B200A4C56E /* Ability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ability.swift; sourceTree = "<group>"; };
+		EA4BEB562427D2B200A4C56E /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		EA4BEB572427D2B200A4C56E /* PokemonSpecies.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonSpecies.swift; sourceTree = "<group>"; };
+		EA4BEB592427D2B200A4C56E /* FileHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileHelper.swift; sourceTree = "<group>"; };
+		EA4BEB5A2427D2B200A4C56E /* Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
+		EA4BEB5B2427D2B200A4C56E /* Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+		EA4BEB652427D2E600A4C56E /* PokemonInfoRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonInfoRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +200,12 @@
 		EA4BEABA24277E0500A4C56E /* PokeMaster */ = {
 			isa = PBXGroup;
 			children = (
-				EA4BEABB24277E0500A4C56E /* AppDelegate.swift */,
+				EA4BEACF24277E4B00A4C56E /* JSON */,
+				EA4BEB4F2427D2B200A4C56E /* Model */,
+				EA4BEB582427D2B200A4C56E /* Utils */,
 				EA4BEABD24277E0500A4C56E /* SceneDelegate.swift */,
+				EA4BEABB24277E0500A4C56E /* AppDelegate.swift */,
+				EA4BEB652427D2E600A4C56E /* PokemonInfoRow.swift */,
 				EA4BEABF24277E0500A4C56E /* ContentView.swift */,
 				EA4BEAC124277E0700A4C56E /* Assets.xcassets */,
 				EA4BEAC624277E0800A4C56E /* LaunchScreen.storyboard */,
@@ -73,6 +221,138 @@
 				EA4BEAC424277E0800A4C56E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EA4BEACF24277E4B00A4C56E /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEAD024277E4B00A4C56E /* pokemon */,
+				EA4BEAEF24277E4B00A4C56E /* species */,
+				EA4BEB0E24277E4B00A4C56E /* abilities */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		EA4BEAD024277E4B00A4C56E /* pokemon */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEAD124277E4B00A4C56E /* pokemon-7.json */,
+				EA4BEAD224277E4B00A4C56E /* pokemon-14.json */,
+				EA4BEAD324277E4B00A4C56E /* pokemon-22.json */,
+				EA4BEAD424277E4B00A4C56E /* pokemon-18.json */,
+				EA4BEAD524277E4B00A4C56E /* pokemon-19.json */,
+				EA4BEAD624277E4B00A4C56E /* pokemon-23.json */,
+				EA4BEAD724277E4B00A4C56E /* pokemon-15.json */,
+				EA4BEAD824277E4B00A4C56E /* pokemon-6.json */,
+				EA4BEAD924277E4B00A4C56E /* pokemon-24.json */,
+				EA4BEADA24277E4B00A4C56E /* pokemon-28.json */,
+				EA4BEADB24277E4B00A4C56E /* pokemon-1.json */,
+				EA4BEADC24277E4B00A4C56E /* pokemon-12.json */,
+				EA4BEADD24277E4B00A4C56E /* pokemon-13.json */,
+				EA4BEADE24277E4B00A4C56E /* pokemon-29.json */,
+				EA4BEADF24277E4B00A4C56E /* pokemon-25.json */,
+				EA4BEAE024277E4B00A4C56E /* pokemon-26.json */,
+				EA4BEAE124277E4B00A4C56E /* pokemon-30.json */,
+				EA4BEAE224277E4B00A4C56E /* pokemon-10.json */,
+				EA4BEAE324277E4B00A4C56E /* pokemon-3.json */,
+				EA4BEAE424277E4B00A4C56E /* pokemon-2.json */,
+				EA4BEAE524277E4B00A4C56E /* pokemon-11.json */,
+				EA4BEAE624277E4B00A4C56E /* pokemon-27.json */,
+				EA4BEAE724277E4B00A4C56E /* pokemon-16.json */,
+				EA4BEAE824277E4B00A4C56E /* pokemon-5.json */,
+				EA4BEAE924277E4B00A4C56E /* pokemon-9.json */,
+				EA4BEAEA24277E4B00A4C56E /* pokemon-20.json */,
+				EA4BEAEB24277E4B00A4C56E /* pokemon-21.json */,
+				EA4BEAEC24277E4B00A4C56E /* pokemon-8.json */,
+				EA4BEAED24277E4B00A4C56E /* pokemon-4.json */,
+				EA4BEAEE24277E4B00A4C56E /* pokemon-17.json */,
+			);
+			path = pokemon;
+			sourceTree = "<group>";
+		};
+		EA4BEAEF24277E4B00A4C56E /* species */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEAF024277E4B00A4C56E /* pokemon-species-11.json */,
+				EA4BEAF124277E4B00A4C56E /* pokemon-species-7.json */,
+				EA4BEAF224277E4B00A4C56E /* pokemon-species-27.json */,
+				EA4BEAF324277E4B00A4C56E /* pokemon-species-30.json */,
+				EA4BEAF424277E4B00A4C56E /* pokemon-species-26.json */,
+				EA4BEAF524277E4B00A4C56E /* pokemon-species-6.json */,
+				EA4BEAF624277E4B00A4C56E /* pokemon-species-10.json */,
+				EA4BEAF724277E4B00A4C56E /* pokemon-species-21.json */,
+				EA4BEAF824277E4B00A4C56E /* pokemon-species-17.json */,
+				EA4BEAF924277E4B00A4C56E /* pokemon-species-1.json */,
+				EA4BEAFA24277E4B00A4C56E /* pokemon-species-16.json */,
+				EA4BEAFB24277E4B00A4C56E /* pokemon-species-20.json */,
+				EA4BEAFC24277E4B00A4C56E /* pokemon-species-23.json */,
+				EA4BEAFD24277E4B00A4C56E /* pokemon-species-19.json */,
+				EA4BEAFE24277E4B00A4C56E /* pokemon-species-3.json */,
+				EA4BEAFF24277E4B00A4C56E /* pokemon-species-15.json */,
+				EA4BEB0024277E4B00A4C56E /* pokemon-species-14.json */,
+				EA4BEB0124277E4B00A4C56E /* pokemon-species-2.json */,
+				EA4BEB0224277E4B00A4C56E /* pokemon-species-18.json */,
+				EA4BEB0324277E4B00A4C56E /* pokemon-species-22.json */,
+				EA4BEB0424277E4B00A4C56E /* pokemon-species-5.json */,
+				EA4BEB0524277E4B00A4C56E /* pokemon-species-29.json */,
+				EA4BEB0624277E4B00A4C56E /* pokemon-species-13.json */,
+				EA4BEB0724277E4B00A4C56E /* pokemon-species-9.json */,
+				EA4BEB0824277E4B00A4C56E /* pokemon-species-25.json */,
+				EA4BEB0924277E4B00A4C56E /* pokemon-species-24.json */,
+				EA4BEB0A24277E4B00A4C56E /* pokemon-species-8.json */,
+				EA4BEB0B24277E4B00A4C56E /* pokemon-species-12.json */,
+				EA4BEB0C24277E4B00A4C56E /* pokemon-species-28.json */,
+				EA4BEB0D24277E4B00A4C56E /* pokemon-species-4.json */,
+			);
+			path = species;
+			sourceTree = "<group>";
+		};
+		EA4BEB0E24277E4B00A4C56E /* abilities */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEB0F24277E4B00A4C56E /* ability-34.json */,
+				EA4BEB1024277E4B00A4C56E /* ability-65.json */,
+			);
+			path = abilities;
+			sourceTree = "<group>";
+		};
+		EA4BEB4F2427D2B200A4C56E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEB502427D2B200A4C56E /* ViewModel */,
+				EA4BEB532427D2B200A4C56E /* DataModel */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EA4BEB502427D2B200A4C56E /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEB512427D2B200A4C56E /* AbilityViewModel.swift */,
+				EA4BEB522427D2B200A4C56E /* PokemonViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		EA4BEB532427D2B200A4C56E /* DataModel */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEB542427D2B200A4C56E /* Language.swift */,
+				EA4BEB552427D2B200A4C56E /* Ability.swift */,
+				EA4BEB562427D2B200A4C56E /* Pokemon.swift */,
+				EA4BEB572427D2B200A4C56E /* PokemonSpecies.swift */,
+			);
+			path = DataModel;
+			sourceTree = "<group>";
+		};
+		EA4BEB582427D2B200A4C56E /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				EA4BEB592427D2B200A4C56E /* FileHelper.swift */,
+				EA4BEB5A2427D2B200A4C56E /* Sample.swift */,
+				EA4BEB5B2427D2B200A4C56E /* Helpers.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,9 +413,71 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA4BEB3324277E4B00A4C56E /* pokemon-species-26.json in Resources */,
 				EA4BEAC824277E0800A4C56E /* LaunchScreen.storyboard in Resources */,
+				EA4BEB2924277E4B00A4C56E /* pokemon-9.json in Resources */,
+				EA4BEB1D24277E4B00A4C56E /* pokemon-13.json in Resources */,
+				EA4BEB4024277E4C00A4C56E /* pokemon-species-2.json in Resources */,
+				EA4BEB1F24277E4B00A4C56E /* pokemon-25.json in Resources */,
+				EA4BEB3924277E4C00A4C56E /* pokemon-species-16.json in Resources */,
+				EA4BEB3824277E4C00A4C56E /* pokemon-species-1.json in Resources */,
+				EA4BEB3A24277E4C00A4C56E /* pokemon-species-20.json in Resources */,
+				EA4BEB4C24277E4C00A4C56E /* pokemon-species-4.json in Resources */,
+				EA4BEB4924277E4C00A4C56E /* pokemon-species-8.json in Resources */,
 				EA4BEAC524277E0800A4C56E /* Preview Assets.xcassets in Resources */,
+				EA4BEB1A24277E4B00A4C56E /* pokemon-28.json in Resources */,
+				EA4BEB3524277E4B00A4C56E /* pokemon-species-10.json in Resources */,
+				EA4BEB2824277E4B00A4C56E /* pokemon-5.json in Resources */,
+				EA4BEB4624277E4C00A4C56E /* pokemon-species-9.json in Resources */,
+				EA4BEB1624277E4B00A4C56E /* pokemon-23.json in Resources */,
+				EA4BEB1824277E4B00A4C56E /* pokemon-6.json in Resources */,
+				EA4BEB2324277E4B00A4C56E /* pokemon-3.json in Resources */,
 				EA4BEAC224277E0700A4C56E /* Assets.xcassets in Resources */,
+				EA4BEB2124277E4B00A4C56E /* pokemon-30.json in Resources */,
+				EA4BEB2F24277E4B00A4C56E /* pokemon-species-11.json in Resources */,
+				EA4BEB4424277E4C00A4C56E /* pokemon-species-29.json in Resources */,
+				EA4BEB1424277E4B00A4C56E /* pokemon-18.json in Resources */,
+				EA4BEB4824277E4C00A4C56E /* pokemon-species-24.json in Resources */,
+				EA4BEB3B24277E4C00A4C56E /* pokemon-species-23.json in Resources */,
+				EA4BEB1B24277E4B00A4C56E /* pokemon-1.json in Resources */,
+				EA4BEB2724277E4B00A4C56E /* pokemon-16.json in Resources */,
+				EA4BEB2224277E4B00A4C56E /* pokemon-10.json in Resources */,
+				EA4BEB2D24277E4B00A4C56E /* pokemon-4.json in Resources */,
+				EA4BEB4524277E4C00A4C56E /* pokemon-species-13.json in Resources */,
+				EA4BEB2E24277E4B00A4C56E /* pokemon-17.json in Resources */,
+				EA4BEB2424277E4B00A4C56E /* pokemon-2.json in Resources */,
+				EA4BEB1C24277E4B00A4C56E /* pokemon-12.json in Resources */,
+				EA4BEB3F24277E4C00A4C56E /* pokemon-species-14.json in Resources */,
+				EA4BEB1124277E4B00A4C56E /* pokemon-7.json in Resources */,
+				EA4BEB4224277E4C00A4C56E /* pokemon-species-22.json in Resources */,
+				EA4BEB1224277E4B00A4C56E /* pokemon-14.json in Resources */,
+				EA4BEB1724277E4B00A4C56E /* pokemon-15.json in Resources */,
+				EA4BEB4E24277E4C00A4C56E /* ability-65.json in Resources */,
+				EA4BEB4A24277E4C00A4C56E /* pokemon-species-12.json in Resources */,
+				EA4BEB1E24277E4B00A4C56E /* pokemon-29.json in Resources */,
+				EA4BEB4324277E4C00A4C56E /* pokemon-species-5.json in Resources */,
+				EA4BEB2624277E4B00A4C56E /* pokemon-27.json in Resources */,
+				EA4BEB3D24277E4C00A4C56E /* pokemon-species-3.json in Resources */,
+				EA4BEB4124277E4C00A4C56E /* pokemon-species-18.json in Resources */,
+				EA4BEB3E24277E4C00A4C56E /* pokemon-species-15.json in Resources */,
+				EA4BEB1324277E4B00A4C56E /* pokemon-22.json in Resources */,
+				EA4BEB4724277E4C00A4C56E /* pokemon-species-25.json in Resources */,
+				EA4BEB3424277E4B00A4C56E /* pokemon-species-6.json in Resources */,
+				EA4BEB3124277E4B00A4C56E /* pokemon-species-27.json in Resources */,
+				EA4BEB2024277E4B00A4C56E /* pokemon-26.json in Resources */,
+				EA4BEB1524277E4B00A4C56E /* pokemon-19.json in Resources */,
+				EA4BEB2B24277E4B00A4C56E /* pokemon-21.json in Resources */,
+				EA4BEB2C24277E4B00A4C56E /* pokemon-8.json in Resources */,
+				EA4BEB2A24277E4B00A4C56E /* pokemon-20.json in Resources */,
+				EA4BEB3224277E4B00A4C56E /* pokemon-species-30.json in Resources */,
+				EA4BEB3624277E4C00A4C56E /* pokemon-species-21.json in Resources */,
+				EA4BEB4D24277E4C00A4C56E /* ability-34.json in Resources */,
+				EA4BEB3724277E4C00A4C56E /* pokemon-species-17.json in Resources */,
+				EA4BEB1924277E4B00A4C56E /* pokemon-24.json in Resources */,
+				EA4BEB4B24277E4C00A4C56E /* pokemon-species-28.json in Resources */,
+				EA4BEB2524277E4B00A4C56E /* pokemon-11.json in Resources */,
+				EA4BEB3C24277E4C00A4C56E /* pokemon-species-19.json in Resources */,
+				EA4BEB3024277E4B00A4C56E /* pokemon-species-7.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,8 +489,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA4BEABC24277E0500A4C56E /* AppDelegate.swift in Sources */,
+				EA4BEB602427D2B200A4C56E /* Pokemon.swift in Sources */,
+				EA4BEB5D2427D2B200A4C56E /* PokemonViewModel.swift in Sources */,
 				EA4BEABE24277E0500A4C56E /* SceneDelegate.swift in Sources */,
+				EA4BEB5F2427D2B200A4C56E /* Ability.swift in Sources */,
+				EA4BEB662427D2E600A4C56E /* PokemonInfoRow.swift in Sources */,
+				EA4BEB5E2427D2B200A4C56E /* Language.swift in Sources */,
+				EA4BEB612427D2B200A4C56E /* PokemonSpecies.swift in Sources */,
+				EA4BEB642427D2B200A4C56E /* Helpers.swift in Sources */,
 				EA4BEAC024277E0500A4C56E /* ContentView.swift in Sources */,
+				EA4BEB5C2427D2B200A4C56E /* AbilityViewModel.swift in Sources */,
+				EA4BEB632427D2B200A4C56E /* Sample.swift in Sources */,
+				EA4BEB622427D2B200A4C56E /* FileHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
