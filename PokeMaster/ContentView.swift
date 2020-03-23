@@ -10,7 +10,19 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        NavigationView {
+            VStack(alignment: .leading) {
+                Button(action: {
+                     
+                }) {
+                    Text("搜索")
+                }.padding(.leading, 16)
+                PokemonList().navigationBarTitle("宝可梦列表")
+            }
+
+
+        }
+        
     }
 }
 
